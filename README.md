@@ -2,8 +2,13 @@
 
 This is video project content on my social media.
 
+Who don't know about what tiktok is?
+We share some of our trash videos on this platform.
+So, let's build it from scratch!
+
 ### Watch the Video
 [YouTube](https://youTube.com)
+<br>
 [Tiktok](https://tiktok.com)
 
 ### follow me free on social media
